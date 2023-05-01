@@ -12,7 +12,6 @@ SELECT TOP (1000) [work_year]
       ,[company_size]
   FROM [Salary_trends].[dbo].[salaries]
 
-  
   -- Ratio of remote jobs
   SELECT
 	ROUND(
