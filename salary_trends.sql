@@ -10,7 +10,7 @@ SELECT TOP (1000) [work_year]
       ,[remote_ratio]
       ,[company_location]
       ,[company_size]
-  FROM [CheatSheet_test].[dbo].[salaries]
+  FROM [Salary_trends].[dbo].[salaries]
 
   
   -- Ratio of remote jobs
